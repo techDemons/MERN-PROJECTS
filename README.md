@@ -1,2 +1,2 @@
-# MERN-PROJECTS
-This is the repository which contains all my work that i completed in btech.
+#E-commerce
+This is the repository of e-commerce which contains all my work that i completed in btech.
